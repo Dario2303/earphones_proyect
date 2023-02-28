@@ -1,0 +1,7 @@
+usamos configuracion global en CSS central
+utilizar variables CSS con root:
+crear un archivo css normalize el cual normaliza la pagina para todos los navegadores
+crear shortand (configurando snippets) para html y css.
+gradiente en color de texto
+utilizar prefijos para compatibilidad en diferentes navegadores
+
