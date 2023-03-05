@@ -2,9 +2,9 @@
 <img align="right" width="500" src="https://github.com/Dario2303/image/blob/main/earphone.png"/>
 </a>
   
-### Earphones proyect - Udemy
+### Earphones project - Udemy
 
-This proyect was done in the CSS course at Udemy.
+This project was done in the CSS course at Udemy.
 
 We apply the following tools: 
 
